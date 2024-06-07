@@ -4,7 +4,7 @@ A simple RESTful API to manage a collection of tasks (to-do items) using Node.js
 
 ## Folder Structure
 tasks-api/
-├── index.js
+├── app.js
 ├── package.json
 ├── controllers/
 │ └── taskController.js
